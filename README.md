@@ -66,5 +66,7 @@ You can open 'CMakeLists.txt' with a compatible IDE or use command line:
 ### License
 
 LFJSON - Apache License 2.0
+
 xxHash - BSD 2-Clause License
+
 RapidJSON - MIT License + 3rd-parties
